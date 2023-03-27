@@ -7,7 +7,7 @@ on:
       - main
 
 env:
-  AZURE_WEBAPP_NAME: DatingApplication
+  AZURE_WEBAPP_NAME: datingapp2023
   AZURE_WEBAPP_PACKAGE_PATH: "./publish"
 
 jobs:
