@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "/Volumes/Data/Project/DatingApp/API/wwwroot/3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets/3rdpartylicenses.txt"
+    },
+    {
+      "Id": "/Volumes/Data/Project/DatingApp/API/wwwroot/assets/user.png",
+      "PackagePath": "staticwebassets/assets/user.png"
+    },
+    {
+      "Id": "/Volumes/Data/Project/DatingApp/API/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Volumes/Data/Project/DatingApp/API/wwwroot/fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "PackagePath": "staticwebassets/fontawesome-webfont.2b13baa7dd4f54c9.eot"
+    },
+    {
+      "Id": "/Volumes/Data/Project/DatingApp/API/wwwroot/fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "PackagePath": "staticwebassets/fontawesome-webfont.8a7cb27d142e3e19.ttf"
+    },
+    {
+      "Id": "/Volumes/Data/Project/DatingApp/API/wwwroot/fontawesome-webfont.cf011583fb81df9f.woff",
+      "PackagePath": "staticwebassets/fontawesome-webfont.cf011583fb81df9f.woff"
+    },
+    {
+      "Id": "/Volumes/Data/Project/DatingApp/API/wwwroot/fontawesome-webfont.da909aa098b0ee2d.svg",
+      "PackagePath": "staticwebassets/fontawesome-webfont.da909aa098b0ee2d.svg"
+    },
+    {
+      "Id": "/Volumes/Data/Project/DatingApp/API/wwwroot/fontawesome-webfont.e9955780856cf8aa.woff2",
+      "PackagePath": "staticwebassets/fontawesome-webfont.e9955780856cf8aa.woff2"
+    },
+    {
+      "Id": "/Volumes/Data/Project/DatingApp/API/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Volumes/Data/Project/DatingApp/API/wwwroot/main.707f9ae734326b0c.js",
+      "PackagePath": "staticwebassets/main.707f9ae734326b0c.js"
+    },
+    {
+      "Id": "/Volumes/Data/Project/DatingApp/API/wwwroot/polyfills.be126616119fee81.js",
+      "PackagePath": "staticwebassets/polyfills.be126616119fee81.js"
+    },
+    {
+      "Id": "/Volumes/Data/Project/DatingApp/API/wwwroot/runtime.7ae29a296d479790.js",
+      "PackagePath": "staticwebassets/runtime.7ae29a296d479790.js"
+    },
+    {
+      "Id": "/Volumes/Data/Project/DatingApp/API/wwwroot/styles.8306b367330d0b94.css",
+      "PackagePath": "staticwebassets/styles.8306b367330d0b94.css"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

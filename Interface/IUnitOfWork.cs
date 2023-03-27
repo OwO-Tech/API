@@ -1,3 +1,5 @@
+using API.Interfaces;
+
 namespace API.Interface
 {
     public interface IUnitOfWork
@@ -5,6 +7,7 @@ namespace API.Interface
         IUserRepository UserRepository { get; }
         IMessageRepository MessageRepository { get; }
         ILikesRepository LikesRepository { get; }
+        IPhotoRepository PhotoRepository { get; }
         Task<bool> Complete();
         bool HasChanges();
     }

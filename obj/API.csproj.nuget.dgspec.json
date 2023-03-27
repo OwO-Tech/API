@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/Data/Project/Learning/DatingApp/API/API.csproj": {}
+    "/Volumes/Data/Project/DatingApp/API/API.csproj": {}
   },
   "projects": {
-    "/Volumes/Data/Project/Learning/DatingApp/API/API.csproj": {
+    "/Volumes/Data/Project/DatingApp/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Data/Project/Learning/DatingApp/API/API.csproj",
+        "projectUniqueName": "/Volumes/Data/Project/DatingApp/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Volumes/Data/Project/Learning/DatingApp/API/API.csproj",
+        "projectPath": "/Volumes/Data/Project/DatingApp/API/API.csproj",
         "packagesPath": "/Users/george/.nuget/packages/",
-        "outputPath": "/Volumes/Data/Project/Learning/DatingApp/API/obj/",
+        "outputPath": "/Volumes/Data/Project/DatingApp/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/george/.nuget/NuGet/NuGet.Config"
@@ -72,6 +72,10 @@
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
